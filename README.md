@@ -1,4 +1,4 @@
-# Blender-Theme-Editor
+# Blender-Theme-Editor - [Download](https://github.com/pragma37/Blender-Theme-Editor/archive/refs/heads/main.zip)
 
 ### Theme Editor is a Blender addon that eases theme customization.
 
